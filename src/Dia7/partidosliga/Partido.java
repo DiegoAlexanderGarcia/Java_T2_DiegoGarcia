@@ -1,4 +1,4 @@
-package partidosliga;
+package Dia7.partidosliga;
 
 import java.time.LocalDate;
 

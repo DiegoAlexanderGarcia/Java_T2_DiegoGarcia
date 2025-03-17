@@ -1,5 +1,5 @@
-package solid;
-
+package Dia9.solid;
+/*
 public class Good {
 
     public static void main(String[] args) {
@@ -15,3 +15,4 @@ public class Good {
     }
     
 }
+*/

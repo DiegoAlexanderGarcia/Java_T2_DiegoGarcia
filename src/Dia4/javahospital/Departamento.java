@@ -1,5 +1,5 @@
 package Dia4.javahospital;
-
+/*
 import javahospital.Empleado;
 import java.util.ArrayList;
 import java.util.List;
@@ -32,4 +32,4 @@ public class Departamento {
     void agregarPersonal(Enfermera enfermera) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
-}
+}*/

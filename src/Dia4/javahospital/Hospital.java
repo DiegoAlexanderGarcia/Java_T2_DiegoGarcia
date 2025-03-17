@@ -1,5 +1,5 @@
 package Dia4.javahospital;
-
+/*
 import Dia4.javahospital.Paciente;
 import java.util.ArrayList;
 import java.util.List;
@@ -48,4 +48,4 @@ public class Hospital {
     Object getDepartamentos() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
-}
+}*/

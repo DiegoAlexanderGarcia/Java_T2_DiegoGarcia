@@ -8,6 +8,8 @@ package Dia2.Dia2;
  *
  * @author Uniminuto Tibu
  */
+
+/*
 public class main { 
     //P.0.0 
     //Es un paradigma de programación que parte del 
@@ -21,4 +23,4 @@ public class main {
         Carro carrito3 = new Carro ("Toyota", "Tundra", 2025, "Diesel", 1000, 5, 7, 2800, "petrol black", 5);
 
     } 
-}
+}*/

@@ -1,5 +1,5 @@
-package solid.SRP;
-
+package Dia9.solid.SRP;
+/*
 public class Good {
 
     public static void main(String[] args) {
@@ -15,3 +15,4 @@ public class Good {
     }
     
 }
+*/

@@ -1,5 +1,5 @@
-package partidosliga;
-
+package Dia7.partidosliga;
+/*
 import java.util.ArrayList;
 import java.util.List;
 import partidosliga.Partido;
@@ -65,4 +65,4 @@ public class GestorDePartidos {
             }
         }
     }
-}
+}*/

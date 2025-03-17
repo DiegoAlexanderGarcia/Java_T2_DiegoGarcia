@@ -1,5 +1,5 @@
-package partidosliga;
-
+package Dia7.partidosliga;
+/*
 import java.time.LocalDate;
 import java.util.Scanner;
 
@@ -90,4 +90,4 @@ public class Main {
         int indice = scanner.nextInt();
         gestor.mostrarInformacion(indice - 1); // Restamos 1 para ajustar al índice del arreglo
     }
-}
+}*/

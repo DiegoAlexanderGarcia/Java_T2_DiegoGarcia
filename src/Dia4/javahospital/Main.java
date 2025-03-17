@@ -1,5 +1,6 @@
 package Dia4.javahospital;
 
+/*
 
 import Dia4.javahospital.Hospital;
 import Dia4.javahospital.Paciente;
@@ -39,4 +40,4 @@ public class Main {
         System.out.println("Departamentos: " + hospital.getDepartamentos().size());
         System.out.println("Pacientes registrados: " + hospital.getPacientes().size());
     }
-}
+}*/
